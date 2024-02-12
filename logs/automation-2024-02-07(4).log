@@ -1,0 +1,52 @@
+16:07:53.033 [main] INFO  TestCases.TC_003_GiftCards - ***** Starting TC_002_ItemsUnderLivingTest *****
+16:08:00.153 [main] INFO  TestCases.TC_003_GiftCards - ***** Display Items under Living in the HomePage  *****
+16:08:03.546 [main] INFO  TestCases.TC_003_GiftCards - ***** Store Items in a list  *****
+16:08:03.547 [main] INFO  TestCases.TC_003_GiftCards - **** Display Items in the console *****
+16:12:55.804 [main] INFO  TestCases.TC_003_GiftCards - ***** Starting TC_001_FindDetailsOfBookShelvesTest *****
+16:12:58.924 [main] DEBUG TestCases.TC_003_GiftCards - Application logs has started........
+16:12:58.927 [main] INFO  TestCases.TC_003_GiftCards - Search Bookshelves in the Home Page
+16:12:59.801 [main] INFO  TestCases.TC_003_GiftCards - Click on the search button
+16:13:21.882 [main] INFO  TestCases.TC_003_GiftCards - Click Exclude out of stock
+16:13:27.485 [main] INFO  TestCases.TC_003_GiftCards - Move to category and  click kidbookshelves
+16:13:36.059 [main] INFO  TestCases.TC_003_GiftCards - Sort price from High to Low
+16:13:42.494 [main] INFO  TestCases.TC_003_GiftCards - Set Price Under 15000
+16:13:55.232 [main] INFO  TestCases.TC_003_GiftCards - Get Name,Price of Bookshelves and print in the console
+16:13:55.874 [main] INFO  TestCases.TC_003_GiftCards - ***** Finished TC_001_FindDetailsOfBookShelvesTest *****
+16:13:56.818 [main] INFO  TestCases.TC_003_GiftCards - ***** Starting TC_002_ItemsUnderLivingTest *****
+16:14:03.843 [main] INFO  TestCases.TC_003_GiftCards - ***** Display Items under Living in the HomePage  *****
+16:14:07.290 [main] INFO  TestCases.TC_003_GiftCards - ***** Store Items in a list  *****
+16:14:07.291 [main] INFO  TestCases.TC_003_GiftCards - **** Display Items in the console *****
+16:18:19.614 [main] INFO  TestCases.TC_003_GiftCards - ***** Starting TC_001_FindDetailsOfBookShelvesTest *****
+16:18:22.851 [main] DEBUG TestCases.TC_003_GiftCards - Application logs has started........
+16:18:22.851 [main] INFO  TestCases.TC_003_GiftCards - Search Bookshelves in the Home Page
+16:18:34.056 [main] INFO  TestCases.TC_003_GiftCards - Click on the search button
+16:18:59.133 [main] INFO  TestCases.TC_003_GiftCards - Click Exclude out of stock
+16:19:04.570 [main] INFO  TestCases.TC_003_GiftCards - Move to category and  click kidbookshelves
+16:19:13.290 [main] INFO  TestCases.TC_003_GiftCards - Sort price from High to Low
+16:19:19.658 [main] INFO  TestCases.TC_003_GiftCards - Set Price Under 15000
+16:19:28.755 [main] INFO  TestCases.TC_003_GiftCards - Get Name,Price of Bookshelves and print in the console
+16:19:29.193 [main] INFO  TestCases.TC_003_GiftCards - ***** Finished TC_001_FindDetailsOfBookShelvesTest *****
+16:19:30.042 [main] INFO  TestCases.TC_003_GiftCards - ***** Starting TC_002_ItemsUnderLivingTest *****
+16:19:37.057 [main] INFO  TestCases.TC_003_GiftCards - ***** Display Items under Living in the HomePage  *****
+16:19:40.334 [main] INFO  TestCases.TC_003_GiftCards - ***** Store Items in a list  *****
+16:19:40.334 [main] INFO  TestCases.TC_003_GiftCards - **** Display Items in the console *****
+16:24:07.267 [main] INFO  TestCases.TC_003_GiftCards - ***** Starting TC_001_FindDetailsOfBookShelvesTest *****
+16:24:10.403 [main] DEBUG TestCases.TC_003_GiftCards - Application logs has started........
+16:24:10.404 [main] INFO  TestCases.TC_003_GiftCards - Search Bookshelves in the Home Page
+16:24:34.946 [main] INFO  TestCases.TC_003_GiftCards - Click on the search button
+16:24:48.558 [main] INFO  TestCases.TC_003_GiftCards - Click Exclude out of stock
+16:24:53.978 [main] INFO  TestCases.TC_003_GiftCards - Move to category and  click kidbookshelves
+16:25:02.500 [main] INFO  TestCases.TC_003_GiftCards - Sort price from High to Low
+16:25:09.044 [main] INFO  TestCases.TC_003_GiftCards - Set Price Under 15000
+16:25:18.249 [main] INFO  TestCases.TC_003_GiftCards - Get Name,Price of Bookshelves and print in the console
+16:25:18.799 [main] INFO  TestCases.TC_003_GiftCards - ***** Finished TC_001_FindDetailsOfBookShelvesTest *****
+16:25:19.623 [main] INFO  TestCases.TC_003_GiftCards - ***** Starting TC_002_ItemsUnderLivingTest *****
+16:25:26.638 [main] INFO  TestCases.TC_003_GiftCards - ***** Display Items under Living in the HomePage  *****
+16:25:29.903 [main] INFO  TestCases.TC_003_GiftCards - ***** Store Items in a list  *****
+16:25:29.908 [main] INFO  TestCases.TC_003_GiftCards - **** Display Items in the console *****
+16:43:14.551 [main] INFO  TestCases.TC_003_GiftCards - ***** Starting TC_001_FindDetailsOfBookShelvesTest *****
+16:43:17.964 [main] DEBUG TestCases.TC_003_GiftCards - Application logs has started........
+16:43:17.965 [main] INFO  TestCases.TC_003_GiftCards - Search Bookshelves in the Home Page
+16:43:41.744 [main] INFO  TestCases.TC_003_GiftCards - Click on the search button
+16:43:57.221 [main] INFO  TestCases.TC_003_GiftCards - Click Exclude out of stock
+16:44:03.085 [main] INFO  TestCases.TC_003_GiftCards - Move to category and  click kidbookshelves
