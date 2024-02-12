@@ -8,7 +8,7 @@
   	<parameter name="os" value="Windows"/>
   	<parameter name="browser" value="chrome"/>
     <classes>   
-      <class name="TestCases.TC_003_GiftCards1"/>
+      <class name="TestCases.TC_003_GiftCards"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->	

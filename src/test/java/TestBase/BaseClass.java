@@ -83,14 +83,14 @@ public class BaseClass {
 		
 		
 		// Launching browser based on choice
-		if(br.equalsIgnoreCase("chrome")) {
-			driver = new ChromeDriver();
-		}else if(br.equalsIgnoreCase("edge")) {
-			driver = new EdgeDriver();
-		}else {
-			System.out.println("No matching browser");
-			return;
-		}
+//		if(br.equalsIgnoreCase("chrome")) {
+//			driver = new ChromeDriver();
+//		}else if(br.equalsIgnoreCase("edge")) {
+//			driver = new EdgeDriver();
+//		}else {
+//			System.out.println("No matching browser");
+//			return;
+//		}
 		
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));

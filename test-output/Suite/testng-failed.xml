@@ -8,17 +8,17 @@
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="TestCases.TC_003_GiftCards1">
+      <class name="TestCases.TC_003_GiftCards">
         <methods>
-          <include name="ClickGiftCards"/>
-          <include name="Items"/>
-          <include name="setUp"/>
           <include name="ValidateDetails"/>
           <include name="GetErrorMsg"/>
+          <include name="Items"/>
+          <include name="setUp"/>
+          <include name="ClickGiftCards"/>
           <include name="searchbookshelves"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- TestCases.TC_003_GiftCards1 -->
+      </class> <!-- TestCases.TC_003_GiftCards -->
     </classes>
   </test> <!-- Test1(failed) -->
 </suite> <!-- Failed suite [Suite] -->
